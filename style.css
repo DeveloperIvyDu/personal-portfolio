@@ -65,7 +65,7 @@ header h1 {
 
 .about-me {
   display: flex;
-  background: linear-gradient(rgba(249, 249, 250, 0.94),rgba(249, 249, 250, 0.94)),url(./images/about-background.jpg);
+  background: linear-gradient(rgba(249, 249, 250, 0.94),rgba(249, 249, 250, 0.94)),url(./images/about-background01.jpg);
   background-size: cover;
   background-position: center center;
   padding-top: 142px;
@@ -101,6 +101,7 @@ header h1 {
 
 .social-icon {
   margin-right: 10px;
+  width: 200px;
 }
 
 @media screen and (max-width: 1300px) {
